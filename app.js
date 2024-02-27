@@ -6,17 +6,17 @@ console.log(
 // Exercise 1
 console.log("EXERCISE 1:\n==========\n");
 
-var a = 20;
+let a = 20;
 
-var b = 4;
+let b = 4;
 
-var add = a + b;
+let add = a + b;
 
-var minus = a - b;
+let minus = a - b;
 
-var multiply = a * b;
+let multiply = a * b;
 
-var dividing = a / b;
+let dividing = a / b;
 
 console.log(`${a} + ${b} = ${add}`);
 console.log(`${a} - ${b} = ${minus}`);
